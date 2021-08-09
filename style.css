@@ -1,0 +1,21 @@
+#logo {
+  width: 150px;
+  height: 150px;
+}
+
+header {
+  background-color: lightgrey;
+  text-align: center;
+}
+
+hr {
+  border: 1px solid orange;
+}
+
+main {
+  padding: 10px;
+}
+
+.titolosezione {
+  color: orange;
+}
